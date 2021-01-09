@@ -1,2 +1,4 @@
 # My-Profile
-## hello!
+## himaja
+**bold**
+*italic*
